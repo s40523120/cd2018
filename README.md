@@ -5,4 +5,4 @@ Class : Class A in two years of design </br>
 [gitbook](https://s40523119.gitbook.io/cd2018/) </br>
 ![Imgur](https://i.imgur.com/hFEUS93.jpg)</br>
 [Markdown editing](https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/markdown.html)
-![GITHUB](https://dl.dropboxusercontent.com/u/2226591/GIT/dojocat.jpg "git圖示")
+
